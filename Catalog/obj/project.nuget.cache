@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjGsk1FXdek2vw+V6+IC19WQup9SaPRWti43xhtrQHTQLSQRyI9/8VjMCuVs08q50PxBNiqgzxojZ/1ukNAMMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Local\\Github\\ItemsRestAPI\\Catalog\\Catalog.csproj",
+  "expectedPackageFiles": [
+    "c:\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "c:\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "c:\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "c:\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "c:\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "c:\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
